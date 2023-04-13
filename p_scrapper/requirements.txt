@@ -1,0 +1,8 @@
+Pyrogram
+TgCrypto
+bs4
+requests
+gunicorn
+psutil
+flask
+python-dotenv
